@@ -1,0 +1,14 @@
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\bin\Debug\net8.0\PrincipioSOLID_Interface.exe
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\bin\Debug\net8.0\PrincipioSOLID_Interface.deps.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\bin\Debug\net8.0\PrincipioSOLID_Interface.runtimeconfig.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\bin\Debug\net8.0\PrincipioSOLID_Interface.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\bin\Debug\net8.0\PrincipioSOLID_Interface.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.AssemblyInfoInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.AssemblyInfo.cs
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.csproj.CoreCompileInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\refint\PrincipioSOLID_Interface.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\PrincipioSOLID_Interface.genruntimeconfig.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSOLID_Interface\PrincipioSOLID_Interface\obj\Debug\net8.0\ref\PrincipioSOLID_Interface.dll

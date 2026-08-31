@@ -1,0 +1,14 @@
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\bin\Debug\net8.0\PrincipioSolid_Dependencias.exe
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\bin\Debug\net8.0\PrincipioSolid_Dependencias.deps.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\bin\Debug\net8.0\PrincipioSolid_Dependencias.runtimeconfig.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\bin\Debug\net8.0\PrincipioSolid_Dependencias.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\bin\Debug\net8.0\PrincipioSolid_Dependencias.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.AssemblyInfoInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.AssemblyInfo.cs
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.csproj.CoreCompileInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\refint\PrincipioSolid_Dependencias.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\PrincipioSolid_Dependencias.genruntimeconfig.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Dependencias\PrincipioSolid_Dependencias\obj\Debug\net8.0\ref\PrincipioSolid_Dependencias.dll
