@@ -1,0 +1,14 @@
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.AssemblyInfoInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.AssemblyInfo.cs
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.csproj.CoreCompileInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\bin\Debug\net8.0\PrincipioSolid_Liskovs.exe
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\bin\Debug\net8.0\PrincipioSolid_Liskovs.deps.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\bin\Debug\net8.0\PrincipioSolid_Liskovs.runtimeconfig.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\bin\Debug\net8.0\PrincipioSolid_Liskovs.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\bin\Debug\net8.0\PrincipioSolid_Liskovs.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\refint\PrincipioSolid_Liskovs.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\PrincipioSolid_Liskovs.genruntimeconfig.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid_Liskovs\PrincipioSolid_Liskovs\obj\Debug\net8.0\ref\PrincipioSolid_Liskovs.dll

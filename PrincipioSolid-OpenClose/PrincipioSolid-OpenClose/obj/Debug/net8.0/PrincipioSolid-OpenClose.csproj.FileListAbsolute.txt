@@ -1,0 +1,14 @@
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\bin\Debug\net8.0\PrincipioSolid-OpenClose.exe
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\bin\Debug\net8.0\PrincipioSolid-OpenClose.deps.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\bin\Debug\net8.0\PrincipioSolid-OpenClose.runtimeconfig.json
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\bin\Debug\net8.0\PrincipioSolid-OpenClose.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\bin\Debug\net8.0\PrincipioSolid-OpenClose.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.AssemblyInfoInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.AssemblyInfo.cs
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.csproj.CoreCompileInputs.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\refint\PrincipioSolid-OpenClose.dll
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.pdb
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\PrincipioSolid-OpenClose.genruntimeconfig.cache
+C:\Users\sarxg\source\repos\actnotas\POO\PrincipioSolid-OpenClose\PrincipioSolid-OpenClose\obj\Debug\net8.0\ref\PrincipioSolid-OpenClose.dll
